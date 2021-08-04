@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IihKSE8FeIweNXEXLEM3udb+5aXjX6Gv0b+lk+9yihP1xU+eG3yxAq4BBm7NyySmsAxkeScj+ySPumcy/ne7yg==",
+  "success": true,
+  "projectFilePath": "C:\\Tiny Project 2de zit\\2020-2021-DEVPROG-PROJECT-2deZit-henrivanoost1\\Owlbot\\Owlbot.iOS\\Owlbot.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Henri Van Oost\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
